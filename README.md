@@ -52,18 +52,6 @@
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Slashyy&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slashyy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Sequência de Contribuições
 
 <div align="center">
@@ -79,16 +67,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slashyy&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Snake Animation
-
-<div align="center">
-
-![Snake animation](https://github.com/Slashyy/Slashyy/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
