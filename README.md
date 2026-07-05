@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou João Victor!
+# 👋 Olá, eu sou Zaminelli
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+### 💻 Estudante de Engenharia de Software
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Estudando+Java;Aprendendo+React+e+TypeScript;Sempre+em+busca+de+novos+desafios!" />
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Engenharia de Software
 
 💻 Atualmente estudando:
 
@@ -24,7 +24,7 @@
 
 📚 Gosto de aprender novas tecnologias e desenvolver projetos para evoluir minhas habilidades.
 
-🎯 Objetivo: atuar como Desenvolvedor Full Stack.
+🎯 Objetivo: Atuar de forma eficiente na area
 
 ---
 
@@ -69,16 +69,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Slashyy&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Slashyy&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
 </div>
 
